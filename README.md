@@ -7,7 +7,6 @@ Tenzie is a simple, fun game built with React. The goal of the game is to roll t
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Contributing](#contributing)
-4. [License](#license)
 
 ## Installation
 
@@ -32,7 +31,3 @@ The game will be available at `http://localhost:3000`.
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
